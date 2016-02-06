@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+h1 {
+  color: #2290e3;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #2290e3;
+}
+
+p {
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #1d852e;
+}
